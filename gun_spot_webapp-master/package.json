@@ -1,0 +1,19 @@
+{
+  "name": "master-proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "hogan-express": "^0.5.2",
+    "node-notifier": "^5.1.2",
+    "pg": "^6.1.0",
+    "websocket": "^1.0.24"
+  }
+}
